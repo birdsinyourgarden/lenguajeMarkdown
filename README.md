@@ -69,4 +69,20 @@ ___
 
 <img width="300" alt="naranja" src="https://github.com/user-attachments/assets/a1106557-159a-4389-905e-3842d03b8407" />
 
+| elemento | etiqueta | ejemplo |
+|:---------|:--------:|--------:|
+| Negrita \|  | `<strong>`|**hola**|
+| Cursiva  | `<em>`| *hola* |
 
+\*no es cursiva\*  
+\# no es un título  
+1\. no es lista  
+
+\ `*_{} [] # + - . | !  
+
+Markdown nación en 2004[^1].  
+[^1]: Creado por John Gruber y Aaron Swartz.  
+
+💙​  
+
+$E=mc^2$
