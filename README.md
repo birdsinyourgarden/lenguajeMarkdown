@@ -59,4 +59,14 @@ ___
 [Enlace a Github](https://github.com/birdsinyourgarden)  
 <https://github.com/birdsinyourgarden>  
 [Mi web](https://github.com/birdsinyourgarden "Paloma")
-[enlace relativo](./docs/guia.md)
+[enlace relativo](./docs/guia.md)  
+
+8. Líneas horizontales  
+[Ir a la sección](#8-líneas-horizontales)
+
+
+![naranja](https://github.com/user-attachments/assets/59fb6fc8-fc87-4a7a-b05f-23b4f2983559)
+
+<img width="300" alt="naranja" src="https://github.com/user-attachments/assets/a1106557-159a-4389-905e-3842d03b8407" />
+
+
